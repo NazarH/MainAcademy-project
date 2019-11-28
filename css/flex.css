@@ -1,0 +1,16 @@
+.header_nav{
+	display: flex;
+	justify-content: space-between;
+	flex-shrink: 1;
+}
+
+form{
+	display: flex;
+    flex-direction: column;
+}
+
+.delete{
+    flex-direction: row;
+}
+
+
